@@ -8,7 +8,7 @@ function happyNewYear() {
     console.log(counter);
     counter--;
   }
-  console.log("Happy New Year!");
+  console.log('Happy New Year!');
 }
 
 /* 
